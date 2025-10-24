@@ -53,6 +53,9 @@ I'm Emir, a second-year Information Technology student and a dedicated Frontend 
 
 ---
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=EmirhanKmen&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 <p align="center">
   <i>“Code is where creativity meets logic.”</i> ✨
 </p>
